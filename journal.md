@@ -1,1 +1,1 @@
-https://voyant-tools.org/tool/Reader/?start=7413&skipToDocId=4e74e739cf5c074a8e6f27e1b73abd71&corpus=922e40b90dee8a99e30d7bd80fe3d05e
+https://voyant-tools.org/tool/Trends/?query=men*&query=man*&query=woman*&query=women*&mode=document&corpus=922e40b90dee8a99e30d7bd80fe3d05e
