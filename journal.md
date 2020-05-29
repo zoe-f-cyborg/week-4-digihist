@@ -19,6 +19,6 @@
 - This was slow going as my computer seemed to be a bit overloaded. I tried to familiarize myself with the “cdn” excel spreadsheet so that I could have a better understanding of what I was doing, but my computer couldn’t seem to handle the file as numbers kept stalling. 
 - Although I would have liked to examine the original to make sure I was uploading the data properly (it wasn't working when I copy-pasted the url, so I had to upload from file, and wasn't entriely sure if the pre-reveal alterations using "options" were actually working. My file did generate something slightly different from the example one, but that may have just been randomizations of colour and placing by voyant. 
 [image]
-In mucking around with the data, I created this graph comparing frequency of men/man and women/woman: 
-https://voyant-tools.org/tool/Trends/?query=men*&query=man*&query=woman*&query=women*&mode=document&corpus=922e40b90dee8a99e30d7bd80fe3d05e
+[my corpus](https://voyant-tools.org/?corpus=922e40b90dee8a99e30d7bd80fe3d05e)
+In mucking around with the data, I created [this graph](https://voyant-tools.org/tool/Trends/?query=men*&query=man*&query=woman*&query=women*&mode=document&corpus=922e40b90dee8a99e30d7bd80fe3d05e) comparing frequency of men/man and women/woman: 
 
