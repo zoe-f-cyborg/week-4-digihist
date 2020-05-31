@@ -5,20 +5,27 @@
 
 ![image](week4ss2.png)
 
+![image](graph1.png)
+
 ### Rstudio
 - Generating the graph for this project was also pretty easy— I think I have a sense how to actually design and display it (aka changing the y-axis and x-axis labels with `ylab` and `xlab`, changing the title with `main`), however I would have to pretty carefully retrace the steps here to import the data (or different data) correctly again. 
 - I recognized some obvious things that needed correcting in the graph formula as it was given on the website— changing the `main` to `xlab` and the `xlab` to `ylab`. However, I was stumped as to what command to use to change “Edinbugh” to “Edinburgh.”
-- I tried to create my own plot 
-- I was quite onfused why when you `head(documents$Newspaper.Title)` it displays something different from the x-axis newspaper names when you `title <- table(documents$Newspaper.Title)` and `barplot(title)` 
 
-[image to demonstrate]
+![image](week4ss12.png)
+
+- I tried to create my own plot 
+- I was quite confused why when you `head(documents$Newspaper.Title)` it displays something different from the x-axis newspaper names when you `title <- table(documents$Newspaper.Title)` and `barplot(title)` 
+
+![image](ss3.png)
 
 - Opening up the additional pages which were linked at the end of this section on the website, I played around number of articles per year graph, turning it into a line graph instead of a bar one. I feel like this makes a lot more sense for this type of data visually. My mucking about also altered the distances between some of the year labels displayed on the x-axis, for reasons I don’t know
 - I also made use of the `col` function, which I could see coming in very handy if I were to display multiple lines on a graph simultaneously.
 
-[2 images, the bar and the truqoise line graph]
+![img](article-titles-1.png)
 
-- RETURN TO PLAY WITH THIS MORE ONCE YOU’VE FINISHED THE OTHER COMPONENTS
+![img](plot_zoom.png)
+
+- I could definitely see myself returning to this and working on it more. 
 
 ### Voyant
 - This was slow going as my computer seemed to be a bit overloaded. I tried to familiarize myself with the “cdn” excel spreadsheet so that I could have a better understanding of what I was doing, but my computer couldn’t seem to handle the file as numbers kept stalling. 
