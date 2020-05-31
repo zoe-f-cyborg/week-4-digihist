@@ -3,7 +3,7 @@
 - I uploaded the .csv file to google drive, then clicked open in spreadsheet
 - It was relatively easy to create the graph, and I played around with modifying the display ranges until it looked readable (the auto-generated graph was so zoomed out that the bars barely looked like they were different lengths at all)
 
-![week4ss2](week4ss2)
+![image](week4ss2.png)
 
 ### Rstudio
 - Generating the graph for this project was also pretty easy— I think I have a sense how to actually design and display it (aka changing the y-axis and x-axis labels with `ylab` and `xlab`, changing the title with `main`), however I would have to pretty carefully retrace the steps here to import the data (or different data) correctly again. 
