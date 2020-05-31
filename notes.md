@@ -14,7 +14,8 @@ Collocates = finds the words which appears most frequently **accompanying the se
 Keyword List = “shows comparisons between two corpora”
 - “We see a list of Keywords that have words that are much more “unusual” – more statistically unexpected – in the corpus we are looking at when compared to the reference corpus.” 
 
-# misc.  GUI (Graphical user Interface) = converts code into a more user-friendly interface, for novices 
-- i.e. the Topic Modelling Tool takes MALLET (a package of java code) and converts it to be a cute little window where you click and drag instead of typing code
+# misc. 
+- GUI (Graphical user Interface) = converts code into a more user-friendly interface, for novices 
+-- i.e. the Topic Modelling Tool takes MALLET (a package of java code) and converts it to be a cute little window where you click and drag instead of typing code
 
 corpus / corpora = ?? 
