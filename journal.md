@@ -3,8 +3,6 @@
 - I uploaded the .csv file to google drive, then clicked open in spreadsheet
 - It was relatively easy to create the graph, and I played around with modifying the display ranges until it looked readable (the auto-generated graph was so zoomed out that the bars barely looked like they were different lengths at all)
 
-![image](week4ss2.png)
-
 ![image](graph1.png)
 
 ### Rstudio
