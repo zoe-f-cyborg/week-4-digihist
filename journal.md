@@ -1,3 +1,6 @@
+# Week Four Coursework
+I'll be honest, I was a bit behind this week due to a midterm in another class and may not have gotten through certain elements (namely the readings, and generating graphs in R studio) as thoroughly as I would have liked, but here's what I've got. 
+
 ### Excel
 - I chose to use google spreadsheets
 - I uploaded the .csv file to google drive, then clicked open in spreadsheet
@@ -107,9 +110,15 @@
 
 - In conclusion: I’m curious what this tool could help me do in exploring a given text or cluster of texts, although I feel like I would need to understanding *why* it clusters the words it does before I would really be able to draw interesting conclusions with it. It certainly provides a new and different way of thinking about the structure of a text, breaking down linear chronology in a potentially beneficial way. 
 
-### Topic Modelling with R
+### Topic Modelling with R studio
 - There was no banner but it did ask me to type “yes” into the console to install tidytext.
 - I got an error with the line `topicModel <- LDA(dtm, K, method="Gibbs", control=list(iter = 500, verbose = 25))`, reviewed my previous code to try to see if anything else had gone wrong beforehand which I hadn't realized, tried `install.packages('LDA')` just on the offchance, then decided to take a break. 
+- Cocochantal on Discord told me to try again from `install.packages('topicmodels')` and voila, it worked! So I'm adding this addendum after technically already submitting the repo for this week. 
+
+![img](rimage.png)
+
+[r script link](https://github.com/zoe-f-cyborg/week-4-digihist/blob/master/chapbooks-project.R)
+- Although I didn't have the time to play around wit hthis a lot, I can definitely see the versatility of this tool coming in handy!
 
 ### Conclusions
 The material for this week was quite intriguing and I would love to play with it more (I would have to if I wanted to really understand the ins and outs of it properly, I think). I did often feel overwhelmed working from the data provided, because it was another layer of unfamiliarity. I couldn’t always tell with the scottish chapbooks what was me not understanding the writing conventions of the time and what was bad OCR-ing. I could see this being a lot more engaging if I were working from a personal research project, or if there were a list of different topics to choose from (scottish chapbooks, humanist emails, etc.). Beginning from a place of greater familiarity with the data would have helped ground me with these projects, which is why I included “little extras” where I looked at texts I felt more familiar with. Although the “extras” I chose were mostly just books, I would also be very curious to know what different types of data can be tackled with these softwares. 
