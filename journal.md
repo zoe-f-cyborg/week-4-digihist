@@ -63,7 +63,7 @@
 - I generated several searches, “drunk,” “good,” “wife.” (attach?) 
 - Next step: comparing corpora-- I chose to compare the “husbands” corpora with just a small selection of the 90 “wife” files, then generated the keyword list: 
 
-![img](week4ss15)
+![img](week4ss15.png)
 
 - If I understand this correctly, these are words which occur more frequently in the “husband” than “wife” texts (frequency indicated by “keyness”). 
 - I can’t say I really know what this tells me, but I definitely feel accomplished that I was able to get it to show me anything! 
@@ -77,7 +77,7 @@
 
 - Following [A. Wallace’s tutorial](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/), I generated a pie chart for one of the chapbooks:
 
-![screenshot](week4ss1)
+![screenshot](week4ss1.png)
 
 - by far the most represented topic is number 8, which I can see correlates to “1 man good god life christ children great mind world nature family make day child time con happy things mrs”
 - As I understand it, these “topics” are really just word clusters which the algorithm has found share some likeness with eachother that I should care about. 
@@ -99,11 +99,11 @@
 - this came up with word clusters I had more of an intuitive grip on, for example, I knew that topic 7 would probably be most prominent in the front matter, and that topic 9 would feature heavily in book 9, where eve is seduced— what with its talk of trials and serpents and deaths. Interestingly though, topic 2 featured more prominently in book 9 that topic 9 did—  I wonder if this topic features heavily across all the books, or more in the scenes on earth than the ones in heaven or hell, or if it relates to something else altogether. 
 - Looking at the percentages would probably be a better way to think about this,  so I need to take a look at some of the csv files. Looking at the TopicsInDocs file, indeed, “2” is the top topic, making up between approximately 40%-82% of each given book, except the frontmatter. 
 
-![screenshot](week4ss5)
+![screenshot](week4ss5.png)
 
 - Perhaps the best title for this series of word clusters is simply “miltonic”? The variousness of its occurence is still interesting  as well— it has a much smaller majority in Books 1 and 2, which take place in hell, as Satan and his horde rise from their defeat. In both of these books, topic 4 ("heav thir hell warr fire pain deep satan arms arm battel strength fierce force fight sat foe hope thunder revenge”) also represents a sizeable chunk. 
 
-![screenshot](week4ss6)
+![screenshot](week4ss6.png)
 
 - In conclusion: I’m curious what this tool could help me do in exploring a given text or cluster of texts, although I feel like I would need to understanding *why* it clusters the words it does before I would really be able to draw interesting conclusions with it. It certainly provides a new and different way of thinking about the structure of a text, breaking down linear chronology in a potentially beneficial way. 
 
